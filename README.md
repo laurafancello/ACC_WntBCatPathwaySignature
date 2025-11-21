@@ -1,14 +1,21 @@
 ## ACC_WntBCatPathwaySignature
+In order to use scripts it is required to set as working directory this repository using the following command:  
+setwd(<path_to_repository>)  
 
-## Folder "ACC_datasets_formatted"
-Contains some required input and the output of some of the scripts
+## Data folders 
+The following folders contains the output of the scripts:
+- ACC_datasets_formatted  
+- ACC_datasets_integration  
+- BoxplotsGeneExpression  
+- DEanalyses_ACC  
+- Pancancer  
+- SignatureAndLEF1_inACC
+  
+The folder "ACC_datasets_formatted" also contains some required input.  
+Note that the output of some scripts is the required input of other scripts.  
 
-## Folders "ACC_datasets_integration", "BoxplotsGeneExpression", "DEanalyses_ACC", "Pancancer", "SignatureAndLEF1_inACC"
-Contain scripts output.
-Note that the output of some scripts is the required input of other scripts
-
-## Folder "Scripts"
-Contains all scripts used througout the analysis
+## Scripts folder
+Contains the code used througout the analysis
 
 ### Environment.txt
 Version for all R packages used.  
