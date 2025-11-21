@@ -1,8 +1,7 @@
 library(GEOquery)
 library(ggplot2)
 library(ggrepel)
-source("./Scripts/Function_DEanalysis_Affymetrix.R")
-source("./Scripts/DEanalysisAndCo_Functions.R")
+source("./Scripts/Miscellaneous_Functions.R")
 inPath <- "./ACC_datasets_formatted/"
 outPath <- "./DEanalyses_ACC/CTNNB1mutVsWt/"
 

@@ -4,7 +4,7 @@ library(msigdbr)
 library(ggplot2)
 library(circlize)
 library(ComplexHeatmap)
-source("./Scripts/DEanalysisAndCo_Functions.R")
+source("./Scripts/Miscellaneous_Functions.R")
 
 
 # 1. CORRELATION GENE-SIGNATURE AND GSEAs ------------------------------------

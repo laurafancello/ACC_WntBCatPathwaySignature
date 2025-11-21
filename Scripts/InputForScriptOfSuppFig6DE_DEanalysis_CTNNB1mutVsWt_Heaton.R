@@ -1,8 +1,7 @@
 library(GEOquery)
 library(ggplot2)
 library(ggrepel)
-source("./Scripts/Function_DEanalysis_Affymetrix.R")
-source("./Scripts/DEanalysisAndCo_Functions.R")
+source("./Scripts/Miscellaneous_Functions.R")
 outPath <- "./DEanalyses_ACC/CTNNB1mutVsWt/"
 
 #  IMPORT DATASET DIRECTLY FROM GEO ---------------------------------------

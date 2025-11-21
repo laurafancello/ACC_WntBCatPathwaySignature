@@ -6,7 +6,7 @@ library(fgsea)
 library(gridExtra)
 library(ggplot2)
 options(digits=15)
-source("./Scripts/DEanalysisAndCo_Functions.R")
+source("./Scripts/Miscellaneous_Functions.R")
 
 analysis = "CTNNB1_vs_wt"
 

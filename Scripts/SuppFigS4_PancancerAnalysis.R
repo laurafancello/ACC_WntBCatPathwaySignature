@@ -10,8 +10,6 @@ library(ggsurvfit)
 library(GEOquery)
 
 source("./Scripts/Miscellaneous_Functions.R")
-source("./Scripts//Function_DEanalysis_Affymetrix.R")
-source("./Scripts/DEanalysisAndCo_Functions.R")
 
 inpath <- "./Pancancer/input/"
 out <- "./Pancancer/output/"

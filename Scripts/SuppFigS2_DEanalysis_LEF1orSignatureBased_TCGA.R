@@ -8,8 +8,7 @@ library(gridExtra)
 library(stringr)
 options(digits=15)
 
-source("./Scripts/Function_DEanalysis_Affymetrix.R")
-source("./Scripts/DEanalysisAndCo_Functions.R")
+source("./Scripts/Miscellaneous_Functions.R")
 
 #  Settings ------------------------------------------------------------
 inPath <- "./ACC_datasets_formatted/"

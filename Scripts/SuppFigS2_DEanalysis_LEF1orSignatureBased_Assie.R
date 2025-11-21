@@ -2,8 +2,7 @@ library(GEOquery)
 library(ggplot2)
 library(ggrepel)
 options(digits=15)
-source("./Scripts/Function_DEanalysis_Affymetrix.R")
-source("./Scripts/DEanalysisAndCo_Functions.R")
+source("./Scripts/Miscellaneous_Functions.R")
 inPath <- "./ACC_datasets_formatted/MicroarrayAnnotations/"
 out <- "./DEanalyses_ACC/"
 if (!(file.exists(out))){
