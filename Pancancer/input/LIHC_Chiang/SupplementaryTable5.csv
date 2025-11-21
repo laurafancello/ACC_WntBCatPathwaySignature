@@ -1,0 +1,106 @@
+Sample ,BLC,Code*,Class,AFP,TP53 mutation,CTNNB1 mutation,CTNNB1 immunohistochemistry
+M81,A,Resection,CTNNB1,23,0,0,1
+M96,A,Resection,CTNNB1,,0,0,1
+M17,A,Resection,CTNNB1,13,0,247T>TG | S37S/A,1
+M59,A,Resection,CTNNB1,306,0,248C>CT | S37S/F,1
+M88,A,Resection,CTNNB1,,0,233A>AT | D32D/V,0
+NY208,A,Resection,CTNNB1,3.1,0,235T>TC | S33S/P,1
+B86,A,Resection,CTNNB1,11,0,247T>TG | S37S/A,0
+NY331,A,Resection,CTNNB1,19,0,232G>GA | D32D/N,0
+NY309,B,Resection,CTNNB1,23.2,0,0,1
+NY204,A,Resection,CTNNB1,8.3,0,260C>CT | T41T/I,1
+B76,A,Resection,CTNNB1,12,256G>GT | R249R/S  ,236C>CT | S33S/F,1
+NY70,,Transplant,CTNNB1,,0,239G>GT | G34G/V,0
+NY226,B,Resection,CTNNB1,10.4,0,248C>CT | S37S/F,1
+NY232,A,Resection,CTNNB1,506.5,0,0,1
+B84,A,Resection,CTNNB1,816,0,232G>GA | D32D/N,1
+B88,A,Resection,CTNNB1,16,0,272C>T | S45F,
+NY321,C,Resection,CTNNB1,21.5,0,234_245het_del CTCTGGAATCCA,0
+NY36,A,Resection,CTNNB1,7.3,0,248C>CG | S37S/C,0
+NY222,B,Resection,CTNNB1,2.6,0,232G>GT | D32D/Y,0
+B94,A,Resection,CTNNB1,6,0,248C>CG | S37S/C,1
+NY333,A,Resection,CTNNB1,32.5,0,0,1
+B78,A,Resection,CTNNB1,4,0,0,0
+NY16,,Transplant,CTNNB1,,0,0,
+NY2,0,Resection,CTNNB1,12.6,0,0,1
+M11,A,Resection,Proliferation,9,0,236C>CG | S33S/C,1
+M35,A,Resection,Proliferation,2.72,,0,0
+NY327,C,Resection,Proliferation,612.1,0,0,0
+B66,B,Resection,Proliferation,332,0,0,0
+M49,0,Resection,Proliferation,36,0,0,1
+B74,C,Resection,Proliferation,3,0,0,0
+B98,A,Resection,Proliferation,1291,0,0,0
+NY329,A,Resection,Proliferation,12.4,0,0,1
+NY325,A,Resection,Proliferation,12.1,0,0,0
+NY65,A,Resection,Proliferation,41573,0,0,0
+NY96,,Resection,Proliferation,,0,0,0
+M43,A,Resection,Proliferation,245,440G>GA | C176C/Y,0,0
+M67,A,Resection,Proliferation,22036,344A>AC | Q144Q/P,0,0
+NY216,C,Resection,Proliferation,664300,0,0,1
+NY82,,Transplant,Proliferation,,0,0,1
+NY79,,Transplant,Proliferation,,0,0,0
+NY39,,Transplant,Proliferation,,,,0
+NY224,C,Resection,Proliferation,13787,195G>GT | E271E/X,0,1
+NY311,C,Resection,Proliferation,13625,0,0,0
+NY99,C,Resection,Proliferation,27646,0,0,0
+M69,A,Resection,Proliferation,2568,0,0,1
+M102,A,Resection,Proliferation,,0,0,0
+M79,A,Resection,Proliferation,7,0,"271T>TG,p.S45S/A",1
+NY34,A,Resection,Interferon,98.3,0,0,0
+NY323,A,Resection,Interferon,19.2,0,0,0
+NY313,A,Resection,Interferon,43,0,0,0
+B72,A,Resection,Interferon,1,0,0,0
+M73,0,Resection,Interferon,60,,,0
+B13,A,Resection,Interferon,5,0,0,
+B39,A,Resection,Interferon,20,0,0,0
+B35,A,Resection,Interferon,104,0,"259A>AG,p.T41T/A",0
+NY44,,Transplant,Interferon,,0,,1
+NY18,A,Resection,Interferon,158.9,"366A>AG,Y205Y/C",0,0
+NY218,C,Resection,Interferon,413.9,0,0,1
+NY41,,Transplant,Interferon,,0,0,1
+NY7,,Transplant,Interferon,,0,0,0
+NY26,,Transplant,Interferon,,,,0
+NY6,,Transplant,Interferon,,0,0,0
+NY307,A,Resection,Interferon,"20.7 
+GAATC",249_250het_ins GAATC,0,0
+NY228,A,Resection,Interferon,40.2                                  0,386G>GT | R158R/L  ,0,0
+NY317,0,Resection,Interferon,3.1                                                                     0,,0,0
+B70,A,Resection,Polysomy chr7,"3                                  0 233A>AG,p.D32D/G",0,"233A>AG,p.D32D/G",1
+NY206,A,Resection,Polysomy chr7,"6.7                                  0 232G>GA,p.D32D/N",0,"232G>GA,p.D32D/N",1
+M90,A,Resection,Polysomy chr7,,0,"233A>AG,p.D32D/G",0
+M94,A,Resection,Polysomy chr7,,0,"236C>CT,p.S33S/F",0
+B19,B,Resection,Polysomy chr7,188                                  0                                  0,0,0,0
+M98,A,Resection,Polysomy chr7,,"366A>AG,Y205Y/C                                     0",0,0
+NY319,A,Resection,Polysomy chr7,3.4                                   0,364C>CA | P151P/T ,0,0
+B80,A,Resection,Polysomy chr7,"7                                  0 271T>TG,p.S45S/A",0,"271T>TG,p.S45S/A",0
+B96,A,Resection,Polysomy chr7,13                                  0                                  0,0,0,0
+B17,0,Resection,Unannotated,3                                0,256G>GT | R249R/S   ,0,0
+B31,B,Resection,Unannotated,"175                                  0 239G>GT,p.G34G/V",0,"239G>GT,p.G34G/V",0
+M71,A,Resection,Unannotated,6                                  0                                  0,0,0,1
+B25,A,Resection,Unannotated,"0 233A>AG,p.D32D/G",0,"233A>AG,p.D32D/G",1
+B29,A,Resection,Unannotated,"27                                  0 239G>GA,p.G34G/E",0,"239G>GA,p.G34G/E",0
+B68,A,Resection,Unannotated,12,0,0,
+M106,A,Resection,Unannotated,,0,0,0
+B33,A,Resection,Unannotated,4,0,0,0
+M15,A,Resection,Unannotated,9,0,0,1
+B90,A,Resection,Unannotated,7,0,0,1
+M100,0,Resection,Unannotated,,0,0,0
+M92,0,Resection,Unannotated,,0,0,0
+B82,A,Resection,Unannotated,2,0,0,0
+M13,0,Resection,Unannotated,16,,0,
+M104,A,Resection,Unannotated,,284G>GT | D259D/Y,0,0
+M31,0,Resection,Unannotated,5,0,0,0
+M53,B,Resection,Unannotated,2653,0,0,0
+B15,,Resection,,,0,0,
+B21,,Transplant,,,0,0,
+B23,,Transplant,,,0,0,
+B27,,Transplant,,,0,0,
+B37,,Transplant,,,0,0,
+B41,,Transplant,,,0,0,
+NY202,,Transplant,,,0,0,
+NY45,,Transplant,,,0,0,
+NY77,,Transplant,,,0,0,
+NY88,,Transplant,,,0,0,
+NY94,,Transplant,,,0,0,
+NY84,,Transplant,,,201C>CT | R273R/C  ,"238G>GA,p.G34G/R",1
+NY302,,Transplant,,,,,

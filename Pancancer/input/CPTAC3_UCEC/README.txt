@@ -1,0 +1,2 @@
+The file "CPTAC3_UCEC/UCEC_CTNNB1mut_sample_matrix_from_cBioportal" contains matrices gene x sample with 0 or 1 values, where 0 indicates CTNNB1 wild type and 1 indicates CTNNB1 altered.
+This file was manually downloaded from the cBioportal
