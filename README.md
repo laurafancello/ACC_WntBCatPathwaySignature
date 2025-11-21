@@ -86,5 +86,15 @@ Script to generate Supplementary Table 4.
 It performs differential expression analysis on Assie dataset between tumors with CTNNB1 mutation and tumors with CTNNB1 wt  
 It the performs the same analysis after removing five potentially miscalssified tumors (CTNNB1 wild type but high LEF1 and signature expression), which allows to recover some significantly upregulated B-Catenin targets (which is not the case using all tumors)  
 
+### InputForScriptOfSuppFig6DE_DEanalysis_CTNNB1mutVsWt_Heaton.R
+Performs the differential analysis on Heaton dataset between tumors with B-Catenin nuclear versus membrane localization.  
+Required in input to SuppFigS6DE_S7B_GSEA_CTNNB1mutVsWt.R script.  
+
+### InputForScriptOfSuppFig6DE_DEanalysis_CTNNB1mutVsWt_tcga.R
+Performs the differential analysis on tcga dataset between tumors with B-Catenin nuclear versus membrane localization.  
+Required in input to SuppFigS6DE_S7B_GSEA_CTNNB1mutVsWt.R script.  
+
+### Miscellaneous functions
+
 
 
