@@ -20,6 +20,9 @@ Contains the code used througout the analysis
 ### Environment.txt
 Version for all R packages used.  
 
+### Miscellaneous_Functions.R
+Define functions employed in some of the other R scripts
+
 ### Fig1AC_SuppFigS3_LEF1orBcatSignatureDistributions_perBcatStatus.R
 Script to generate main Figure 1A and 1C, and Supplementary Figure 3.  
 It plots the expression of LEF1 or of the signature in function of the known activation status of the Wnt/B-Catenin pathway (based on CTNNB1 mutations or B-Catenin protein nuclear localization).
